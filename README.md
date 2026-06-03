@@ -46,9 +46,6 @@
 - **[EvoClawSite](https://github.com/DevEloLin/EvoClawSite)** — Official website for EvoClaw *(HTML)*
 - **[homebrew-tap](https://github.com/DevEloLin/homebrew-tap)** — Homebrew tap for installing EvoClaw *(Ruby)*
 
-### 🛠 Developer Tools
-- **[GitFlowGraph](https://github.com/DevEloLin/GitFlowGraph)** — A Git visualisation workspace for the [Zed](https://zed.dev) editor: lane-aware commit graph, smart diff, and release management — without leaving the editor *(Rust)*
-
 ### 🧩 Atlassian / Jira Products
 - **[atlassian-rovo-agent-mcp](https://github.com/DevEloLin/atlassian-rovo-agent-mcp)** — Local MCP facade for Atlassian Rovo agent workflows; validates Jira / Confluence / Bitbucket Cloud *(Python)* ⭐
 - **[dashboards-rich-filters-site](https://github.com/DevEloLin/dashboards-rich-filters-site)** — Marketing site for *Dashboards Rich Filters*, a premium Jira Cloud dashboard gadget on the Atlassian Marketplace *(HTML)*
