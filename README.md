@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Elo Lin 👋</h1>
 
 <p align="center">
-  <b>Founder · Indie Developer · I build tools because the existing ones let me down.</b>
+  <b>Full-Stack Engineer · Founder · Indie Developer — I build tools because the existing ones let me down.</b>
 </p>
 
 <p align="center">
@@ -12,10 +12,11 @@
 
 <p align="center">
   <a href="https://develolin.github.io/EvoClawSite/"><img src="https://img.shields.io/badge/Website-EvoClaw-1f6feb?style=for-the-badge" alt="EvoClaw website"></a>
+  <img src="https://img.shields.io/badge/Full--Stack-5%2B_yrs-1f6feb?style=for-the-badge" alt="Full-Stack 5+ years">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/Rust-orange?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/data-stays_local-green?style=for-the-badge" alt="local-first">
 </p>
 
 ---
@@ -73,13 +74,79 @@ Most AI assistants are amnesiacs: every session starts from zero, and you re-exp
 
 ---
 
-## 🧠 Tech & Focus
+## 🛠 Tech Stack
+
+<p align="center">
+  <b>Full-stack engineer · 5+ years shipping production software end-to-end</b><br/>
+  <i>Systems code, APIs, web, mobile &amp; desktop, data, and cloud infra — from a blank repo to a signed release.</i>
+</p>
+
+**Languages**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Axum](https://img.shields.io/badge/Axum-000000?style=flat-square&logo=rust&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-2B6CB0?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square)
+
+**Mobile & Desktop**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-3B82F6?style=flat-square)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+
+**Data & Storage**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
+![Cloudflare D1](https://img.shields.io/badge/Cloudflare_D1-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+**Cloud & DevOps**
+
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+**AI / LLM**
+
+![LLM Agents](https://img.shields.io/badge/LLM_Agents-6E56CF?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-0EA5E9?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
+![ACP](https://img.shields.io/badge/ACP-000000?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-10A37F?style=flat-square)
 
 ```text
-Languages   ·  Rust  ·  Python  ·  TypeScript  ·  Shell  ·  HTML/CSS
-I care about ·  reliability  ·  speed  ·  ergonomics  ·  things that just work
-Domains      ·  AI agents  ·  LLM tooling  ·  developer & life productivity  ·  healthcare
-Principles   ·  local-first  ·  single-binary  ·  zero telemetry  ·  standards-based (ACP / MCP)
+Focus       ·  reliability · speed · ergonomics · things that just work
+Domains     ·  AI agents · LLM tooling · developer & life productivity · healthcare
+Principles  ·  local-first · single-binary · zero telemetry · standards-based (ACP / MCP)
 ```
 
 ---
