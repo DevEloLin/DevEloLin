@@ -37,6 +37,22 @@ The recurring principles: **local-first** (your data stays on your machine), **s
 
 ---
 
+## 🏢 elolin.com — my product studio
+
+Open source is only half the story. [**elolin.com**](https://elolin.com) is the studio I run — a portfolio of shipped products across **gaming, health, SaaS, and desktop AI**, all sharing one account system ([accounts.elolin.com](https://accounts.elolin.com)). I own the whole loop: build it, price it, launch it, and keep it running.
+
+| Product | What it does | Stack · Model |
+|---|---|---|
+| 🎮 **[EloGames](https://games.elolin.com)** | Instant-play web game platform, led by my self-published flagship **Lifeverse** — a life-simulator you replay across parallel worlds. | Next.js · Cloudflare · self-operated ads + cross-promo |
+| 🩺 **[KinMate](https://kinmate.elolin.com)** | A private, **local-first family health vault** — keep lab reports, medical records & pet health on-device, with AI that explains them in plain language. | Flutter (iOS / Android) · on-device first |
+| 🧪 **[TestHive](https://testhive.elolin.com)** | A **crowd-testing marketplace** — developers launch test campaigns, testers earn through an in-app credit economy, with shareable public reports. | Next.js · Supabase · in-app currency + commission |
+| 🎨 **Zivoe** | A desktop **AI industrial-design studio** for kids' ride-on products — turn one reference image into manufacturable three-view design concepts. | Flutter + Rust core · offline licensing · Win / macOS |
+| 🔐 **[accounts.elolin.com](https://accounts.elolin.com)** | The **single sign-on & identity layer** that ties the studio together — one login across every product. | Cloudflare · OAuth · session & device management |
+
+<sub><i>Running the full loop end-to-end: product → engineering → pricing &amp; licensing → launch → growth &amp; retention.</i></sub>
+
+---
+
 ## 🚀 Featured — EvoClaw
 
 > **A local-first, self-evolving AI agent that learns from every task and gets out of your way.**
