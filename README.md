@@ -43,10 +43,14 @@ Open source is only half the story. [**elolin.com**](https://elolin.com) is the 
 
 | Product | What it does | Stack · Model |
 |---|---|---|
+| 🎨 **[PhotoAI](https://photoai.elolin.com)** | Upload a selfie → **ID photo, avatar, pet portrait or character art** in seconds, no prompt-writing. Photos are discarded the same day. | Next.js · self-hosted (Raspberry Pi) · credit packs + subscriptions |
 | 🎮 **[EloGames](https://games.elolin.com)** | Instant-play web game platform, led by my self-published flagship **Lifeverse** — a life-simulator you replay across parallel worlds. | Next.js · Cloudflare · self-operated ads + cross-promo |
 | 🩺 **[KinMate](https://kinmate.elolin.com)** | A private, **local-first family health vault** — keep lab reports, medical records & pet health on-device, with AI that explains them in plain language. | Flutter (iOS / Android) · on-device first |
 | 🧪 **[TestHive](https://testhive.elolin.com)** | A **crowd-testing marketplace** — developers launch test campaigns, testers earn through an in-app credit economy, with shareable public reports. | Next.js · Supabase · in-app currency + commission |
-| 🎨 **Zivoe** | A desktop **AI industrial-design studio** for kids' ride-on products — turn one reference image into manufacturable three-view design concepts. | Flutter + Rust core · offline licensing · Win / macOS |
+| 🖥 **[Zivoe](https://zivoe.elolin.com)** | A desktop **AI industrial-design tool built to spark ideas** — turn a rough concept or reference image into product hero shots & three-view drawings. *(early access)* | Flutter + Rust core · offline licensing · Win / macOS |
+| 🌐 **[EloLin Domains](https://domains.elolin.com)** | Claim a **free sub-domain** and manage its DNS yourself, from a simple dashboard. | Next.js · Cloudflare |
+| 🔧 **[mv3migrate](https://mv3migrate.elolin.com)** | A CLI that drags Chrome extensions from **Manifest V2 → V3** — scans, applies codemods, and writes a migration report. | Node CLI · self-hosted docs |
+| 🔌 **[Onrix AI](https://docs.getarriveready.com)** | An **OpenAI-compatible chat + image API** — point your existing OpenAI SDK at it and build. | Cloudflare · edge |
 | 🔐 **[accounts.elolin.com](https://accounts.elolin.com)** | The **single sign-on & identity layer** that ties the studio together — one login across every product. | Cloudflare · OAuth · session & device management |
 
 <sub><i>Running the full loop end-to-end: product → engineering → pricing &amp; licensing → launch → growth &amp; retention.</i></sub>
