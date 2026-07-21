@@ -44,6 +44,7 @@ Open source is only half the story. [**elolin.com**](https://elolin.com) is the 
 | Product | What it does | Stack · Model |
 |---|---|---|
 | 🎨 **[PhotoAI](https://photoai.elolin.com)** | Upload a selfie → **ID photo, avatar, pet portrait or character art** in seconds, no prompt-writing. Photos are discarded the same day. | Next.js · self-hosted (Raspberry Pi) · credit packs + subscriptions |
+| 🎮 **[EloGames](https://games.elolin.com)** | Instant-play web game platform, led by my self-published flagship **Lifeverse** — a life-simulator you replay across parallel worlds. | Next.js · Cloudflare · self-operated ads + cross-promo |
 | 🩺 **[KinMate](https://kinmate.elolin.com)** | A private, **local-first family health vault** — keep lab reports, medical records & pet health on-device, with AI that explains them in plain language. | Flutter (iOS / Android) · on-device first |
 | 🧪 **[TestHive](https://testhive.elolin.com)** | A **crowd-testing marketplace** — developers launch test campaigns, testers earn through an in-app credit economy, with shareable public reports. | Next.js · Supabase · in-app currency + commission |
 | 🖥 **[Zivoe](https://zivoe.elolin.com)** | A desktop **AI industrial-design tool built to spark ideas** — turn a rough concept or reference image into product hero shots & three-view drawings. | Flutter + Rust core · offline licensing · Win / macOS |
